@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h1>화면 변경</h1>
+	
 </body>
 </html>
